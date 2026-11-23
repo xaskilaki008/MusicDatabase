@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Database backups
+backups/
+*.dump
+*.backup
+*.sql.gz
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
